@@ -1,0 +1,53 @@
+@tailwind components;
+@tailwind utilities;
+@import "open-props/style";
+@import "open-props/normalize";
+@import "open-props/buttons";
+
+@import "./styles/utopia.css";
+@import "./styles/themes.css";
+
+main {
+  background-color: var(--surface-1);
+  min-block-size: 100vh;
+  color: var(--text-1);
+}
+
+input.ais-SearchBox-input {
+  border: 4px solid #fd79a8;
+  width: 80vw;
+  font-size: var(--step-5);
+  height: fit-content;
+  // style the placeholder color
+  &::placeholder {
+    color: var(--text-2);
+  }
+}
+
+form.ais-SearchBox-form::before {
+  background: none;
+}
+
+ol.ais-Hits-list {
+  --min: 15ch;
+  --gap: 1rem;
+
+  display: grid;
+  grid-gap: var(--gap);
+
+  grid-template-columns: 1fr 1fr;
+}
+
+div.ais-Hits {
+  width: 100%;
+  max-width: 1024px;
+}
+
+li.ais-Hits-item {
+  width: 100%;
+  max-width: unset;
+}
+
+.ais-SearchBox {
+  margin-bottom: 10rem;
+}

@@ -1,0 +1,148 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v4.1.63",
+    "version": "2.0"
+  },
+  "extensionsUsed": ["KHR_texture_transform", "EXT_texture_webp"],
+  "extensionsRequired": ["KHR_texture_transform"],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [0]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Plane",
+      "rotation": [0.7071068286895752, 0, 0, 0.7071068286895752],
+      "scale": [0.7831217646598816, 0.10942351818084717, 0.10942351818084717],
+      "translation": [0, 0, -0.39491650462150574]
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material.001",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [0, -0.8000000715255737],
+              "scale": [12.600000381469727, 1.8000000715255737]
+            }
+          },
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.9
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Plane",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "extensions": {
+        "EXT_texture_webp": {
+          "source": 0
+        }
+      },
+      "sampler": 0,
+      "source": 1
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/webp",
+      "name": "KnitBlanket",
+      "uri": "KnitBlanket.webp"
+    },
+    {
+      "mimeType": "image/png",
+      "name": "KnitBlanket",
+      "uri": "KnitBlanket.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 5757,
+      "max": [1.0000001192092896, 14.048728942871094, 3.0335443019866943],
+      "min": [-1.0000001192092896, -2.0660746097564697, -4.981975078582764],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 5757,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5757,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 29184,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 69084,
+      "byteOffset": 0,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 69084,
+      "byteOffset": 69084,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 46056,
+      "byteOffset": 138168,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 58368,
+      "byteOffset": 184224,
+      "target": 34963
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 242592,
+      "uri": "Blanket.bin"
+    }
+  ]
+}

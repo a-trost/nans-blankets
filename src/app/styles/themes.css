@@ -1,0 +1,62 @@
+html {
+	/* light/legal */
+	--brand-light: var(--orange-6);
+	--text-1-light: var(--gray-8);
+	--text-2-light: var(--gray-7);
+	--surface-1-light: var(--gray-0);
+	--surface-2-light: var(--gray-1);
+	--surface-3-light: var(--gray-2);
+	--surface-4-light: var(--gray-3);
+	--surface-shadow-light: var(--gray-8-hsl);
+	--shadow-strength-light: 2%;
+
+	/* dark/illegal */
+	--brand-dark: var(--orange-3);
+	--text-1-dark: var(--gray-3);
+	--text-2-dark: var(--gray-5);
+	--surface-1-dark: var(--gray-12);
+	--surface-2-dark: var(--gray-11);
+	--surface-3-dark: var(--gray-10);
+	--surface-4-dark: var(--gray-9);
+	--surface-shadow-dark: var(--gray-12-hsl);
+	--shadow-strength-dark: 80%;
+
+	/* General custom properties */
+	--max-width: 64rem;
+}
+
+/* :root {
+
+} */
+
+:where([data-theme='legal'], .legal, .legal-theme) {
+	--link: var(--red-7);
+	--link-visited: var(--red-7);
+	--text-1: var(--gray-12);
+	--text-2: var(--gray-7);
+	--surface-1: var(--gray-0);
+	--surface-2: var(--gray-2);
+	--surface-3: var(--gray-3);
+	--surface-4: var(--gray-4);
+	--scrollthumb-color: var(--gray-7);
+	--shadow-color: 220 3% 15%;
+	--shadow-strength: 1%;
+	--inner-shadow-highlight: inset 0 -0.5px 0 0 #fff, inset 0 0.5px 0 0 rgba(0, 0, 0, 0.067);
+	color-scheme: light;
+}
+
+:where([data-theme='illegal'], .illegal, .illegal-theme) {
+	--link: var(--yellow-2);
+	--link-visited: var(--yellow-3);
+	--text-1: var(--gray-1);
+	--text-2: var(--gray-2);
+	--surface-1: var(--gray-11);
+	--surface-2: var(--gray-10);
+	--surface-3: var(--gray-9);
+	--surface-4: var(--gray-8);
+	--scrollthumb-color: var(--gray-7);
+	--shadow-color: 220 3% 15%;
+	--shadow-strength: 9%;
+	--inner-shadow-highlight: inset 0 -0.5px 0 0 #fff, inset 0 0.5px 0 0 rgba(0, 0, 0, 0.067);
+	color-scheme: dark;
+}

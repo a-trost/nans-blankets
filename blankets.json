@@ -1,0 +1,338 @@
+[
+  {
+    "uid": "kitten-blanket",
+    "name": "Kitten Blanket",
+    "description": "A cozy blanket with adorable kitties!",
+    "color": "White",
+    "price": 55.99
+  },
+  {
+    "uid": "puppy-blanket",
+    "name": "Puppy Blanket",
+    "description": "A cozy blanket with adorable puppies!",
+    "color": "Blue",
+    "price": 55.99
+  },
+  {
+    "uid": "flower-garden-blanket",
+    "name": "Flower Garden Blanket",
+    "description": "A vibrant blanket with beautiful flower patterns!",
+    "color": "Pink",
+    "price": 60.99
+  },
+  {
+    "uid": "rainbow-blanket",
+    "name": "Rainbow Blanket",
+    "description": "A colorful blanket that brings joy to any room!",
+    "color": "Rainbow",
+    "price": 65.99
+  },
+  {
+    "uid": "stars-and-moon-blanket",
+    "name": "Stars and Moon Blanket",
+    "description": "A magical blanket with stars and moons!",
+    "color": "Navy",
+    "price": 58.99
+  },
+  {
+    "uid": "forest-animals-blanket",
+    "name": "Forest Animals Blanket",
+    "description": "A charming blanket with cute forest animals!",
+    "color": "Green",
+    "price": 59.99
+  },
+  {
+    "uid": "snowflake-blanket",
+    "name": "Snowflake Blanket",
+    "description": "A winter-themed blanket with delicate snowflakes!",
+    "color": "Light Blue",
+    "price": 57.99
+  },
+  {
+    "uid": "butterfly-blanket",
+    "name": "Butterfly Blanket",
+    "description": "A delightful blanket with colorful butterflies!",
+    "color": "Yellow",
+    "price": 62.99
+  },
+  {
+    "uid": "ocean-waves-blanket",
+    "name": "Ocean Waves Blanket",
+    "description": "A soothing blanket with ocean wave patterns!",
+    "color": "Teal",
+    "price": 64.99
+  },
+  {
+    "uid": "sunflower-blanket",
+    "name": "Sunflower Blanket",
+    "description": "A cheerful blanket with bright sunflowers!",
+    "color": "Orange",
+    "price": 63.99
+  },
+  {
+    "uid": "autumn-leaves-blanket",
+    "name": "Autumn Leaves Blanket",
+    "description": "A cozy blanket with beautiful autumn leaves!",
+    "color": "Brown",
+    "price": 56.99
+  },
+  {
+    "uid": "spring-breeze-blanket",
+    "name": "Spring Breeze Blanket",
+    "description": "A light and airy blanket perfect for spring!",
+    "color": "Light Green",
+    "price": 54.99
+  },
+  {
+    "uid": "winter-wonderland-blanket",
+    "name": "Winter Wonderland Blanket",
+    "description": "A cozy blanket with a winter wonderland theme!",
+    "color": "White",
+    "price": 66.99
+  },
+  {
+    "uid": "tropical-paradise-blanket",
+    "name": "Tropical Paradise Blanket",
+    "description": "A vibrant blanket with tropical patterns!",
+    "color": "Turquoise",
+    "price": 67.99
+  },
+  {
+    "uid": "galaxy-blanket",
+    "name": "Galaxy Blanket",
+    "description": "A mesmerizing blanket with galaxy patterns!",
+    "color": "Purple",
+    "price": 68.99
+  },
+  {
+    "uid": "farm-animals-blanket",
+    "name": "Farm Animals Blanket",
+    "description": "A fun blanket with cute farm animals!",
+    "color": "Red",
+    "price": 61.99
+  },
+  {
+    "uid": "cherry-blossom-blanket",
+    "name": "Cherry Blossom Blanket",
+    "description": "A delicate blanket with cherry blossom patterns!",
+    "color": "Light Pink",
+    "price": 64.99
+  },
+  {
+    "uid": "peacock-feathers-blanket",
+    "name": "Peacock Feathers Blanket",
+    "description": "An elegant blanket with peacock feather designs!",
+    "color": "Emerald",
+    "price": 69.99
+  },
+  {
+    "uid": "teddy-bear-blanket",
+    "name": "Teddy Bear Blanket",
+    "description": "A cuddly blanket with teddy bear patterns!",
+    "color": "Brown",
+    "price": 58.99
+  },
+  {
+    "uid": "night-sky-blanket",
+    "name": "Night Sky Blanket",
+    "description": "A serene blanket with a night sky theme!",
+    "color": "Dark Blue",
+    "price": 62.99
+  },
+  {
+    "uid": "candy-cane-blanket",
+    "name": "Candy Cane Blanket",
+    "description": "A festive blanket with candy cane stripes!",
+    "color": "Red and White",
+    "price": 59.99
+  },
+  {
+    "uid": "fairy-tale-blanket",
+    "name": "Fairy Tale Blanket",
+    "description": "A whimsical blanket with fairy tale designs!",
+    "color": "Lavender",
+    "price": 66.99
+  },
+  {
+    "uid": "paisley-pattern-blanket",
+    "name": "Paisley Pattern Blanket",
+    "description": "A stylish blanket with paisley patterns!",
+    "color": "Maroon",
+    "price": 63.99
+  },
+  {
+    "uid": "striped-blanket",
+    "name": "Striped Blanket",
+    "description": "A classic blanket with colorful stripes!",
+    "color": "Multi-color",
+    "price": 55.99
+  },
+  {
+    "uid": "geometric-pattern-blanket",
+    "name": "Geometric Pattern Blanket",
+    "description": "A modern blanket with geometric patterns!",
+    "color": "Gray",
+    "price": 65.99
+  },
+  {
+    "uid": "abstract-art-blanket",
+    "name": "Abstract Art Blanket",
+    "description": "An artistic blanket with abstract designs!",
+    "color": "Multi-color",
+    "price": 68.99
+  },
+  {
+    "uid": "pastel-dreams-blanket",
+    "name": "Pastel Dreams Blanket",
+    "description": "A soft blanket with pastel colors!",
+    "color": "Pastel",
+    "price": 57.99
+  },
+  {
+    "uid": "mermaid-blanket",
+    "name": "Mermaid Blanket",
+    "description": "A magical blanket with mermaid designs!",
+    "color": "Aqua",
+    "price": 64.99
+  },
+  {
+    "uid": "dinosaur-blanket",
+    "name": "Dinosaur Blanket",
+    "description": "A fun blanket with dinosaur patterns!",
+    "color": "Olive",
+    "price": 60.99
+  },
+  {
+    "uid": "cloudy-day-blanket",
+    "name": "Cloudy Day Blanket",
+    "description": "A cozy blanket with fluffy clouds!",
+    "color": "Light Gray",
+    "price": 56.99
+  },
+  {
+    "uid": "gingham-blanket",
+    "name": "Gingham Blanket",
+    "description": "A classic blanket with gingham patterns!",
+    "color": "Red and White",
+    "price": 53.99
+  },
+  {
+    "uid": "tribal-pattern-blanket",
+    "name": "Tribal Pattern Blanket",
+    "description": "A unique blanket with tribal designs!",
+    "color": "Black and White",
+    "price": 66.99
+  },
+  {
+    "uid": "feather-blanket",
+    "name": "Feather Blanket",
+    "description": "A delicate blanket with feather patterns!",
+    "color": "Soft Blue",
+    "price": 62.99
+  },
+  {
+    "uid": "lilac-blossom-blanket",
+    "name": "Lilac Blossom Blanket",
+    "description": "A fragrant blanket with lilac designs!",
+    "color": "Lilac",
+    "price": 64.99
+  },
+  {
+    "uid": "hot-air-balloon-blanket",
+    "name": "Hot Air Balloon Blanket",
+    "description": "A whimsical blanket with hot air balloons!",
+    "color": "Sky Blue",
+    "price": 63.99
+  },
+  {
+    "uid": "whale-song-blanket",
+    "name": "Whale Song Blanket",
+    "description": "A calming blanket with whale designs!",
+    "color": "Navy Blue",
+    "price": 65.99
+  },
+  {
+    "uid": "garden-party-blanket",
+    "name": "Garden Party Blanket",
+    "description": "A vibrant blanket with garden patterns!",
+    "color": "Green",
+    "price": 68.99
+  },
+  {
+    "uid": "mountain-adventure-blanket",
+    "name": "Mountain Adventure Blanket",
+    "description": "A rugged blanket with mountain designs!",
+    "color": "Gray",
+    "price": 61.99
+  },
+  {
+    "uid": "vintage-lace-blanket",
+    "name": "Vintage Lace Blanket",
+    "description": "An elegant blanket with lace patterns!",
+    "color": "Ivory",
+    "price": 67.99
+  },
+  {
+    "uid": "caramel-swirl-blanket",
+    "name": "Caramel Swirl Blanket",
+    "description": "A sweet blanket with caramel swirl designs!",
+    "color": "Caramel",
+    "price": 59.99
+  },
+  {
+    "uid": "honeybee-blanket",
+    "name": "Honeybee Blanket",
+    "description": "A cheerful blanket with honeybee patterns!",
+    "color": "Yellow",
+    "price": 61.99
+  },
+  {
+    "uid": "palm-tree-blanket",
+    "name": "Palm Tree Blanket",
+    "description": "A relaxing blanket with palm tree designs!",
+    "color": "Green",
+    "price": 64.99
+  },
+  {
+    "uid": "ice-cream-cone-blanket",
+    "name": "Ice Cream Cone Blanket",
+    "description": "A fun blanket with ice cream cone patterns!",
+    "color": "Pink",
+    "price": 56.99
+  },
+  {
+    "uid": "sailing-blanket",
+    "name": "Sailing Blanket",
+    "description": "A nautical blanket with sailing designs!",
+    "color": "Navy",
+    "price": 65.99
+  },
+  {
+    "uid": "barnyard-friends-blanket",
+    "name": "Barnyard Friends Blanket",
+    "description": "A playful blanket with barnyard animals!",
+    "color": "Red",
+    "price": 60.99
+  },
+  {
+    "uid": "polka-dot-blanket",
+    "name": "Polka Dot Blanket",
+    "description": "A fun blanket with polka dot patterns!",
+    "color": "Multi-color",
+    "price": 54.99
+  },
+  {
+    "uid": "sweet-dreams-blanket",
+    "name": "Sweet Dreams Blanket",
+    "description": "A dreamy blanket with soothing designs!",
+    "color": "Soft Pink",
+    "price": 62.99
+  },
+  {
+    "uid": "marble-pattern-blanket",
+    "name": "Marble Pattern Blanket",
+    "description": "An elegant blanket with marble patterns!",
+    "color": "Gray and White",
+    "price": 66.99
+  }
+]
