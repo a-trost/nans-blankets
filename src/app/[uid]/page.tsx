@@ -24,7 +24,7 @@ export async function generateMetadata({
     .catch(() => notFound());
 
   return {
-    title: prismic.asText(page.data.title),
+    title: "Nan's Blankets",
     description: page.data.meta_description,
     openGraph: {
       title: page.data.meta_title || undefined,
