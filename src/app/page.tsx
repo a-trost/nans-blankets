@@ -22,5 +22,5 @@ export default async function Index() {
   const client = createClient();
   const home = await client.getByUID("page", "home");
 
-  return <SearchArea siteName={home.data.blanket_title} />;
+  return <SearchArea />;
 }

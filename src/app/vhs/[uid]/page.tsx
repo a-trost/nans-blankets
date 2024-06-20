@@ -17,7 +17,7 @@ export default async function Page({ params }: { params: Params }) {
 
   const index = searchClient.initIndex("movies");
 
-  const fetchItemById = async (uid) => {
+  const fetchItemById = async (uid: string) => {
     try {
       const item = await index
         .findObject((hit) => hit.objectID === uid)
